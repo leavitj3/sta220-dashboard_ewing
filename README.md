@@ -7,3 +7,5 @@ This is for my STA 220 final project.
 Step 1: Went through rows and got rid of labels not related to Statistics/Data
 
 Step 2: Deleted "County not defined" column
+
+Step 3: Deleted "Margin of Error" columns
