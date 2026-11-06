@@ -4,4 +4,5 @@ This is for my STA 220 final project.
 
 ** Instructions for turning ACS Occupations table into tidy format **
 
-Step 1: 
+Step 1: Went through rows and got rid of labels not related to Statistics/Data
+Step 2: Deleted "County not defined" column
