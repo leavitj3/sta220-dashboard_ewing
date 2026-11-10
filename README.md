@@ -13,3 +13,5 @@ Step 3: Deleted all "Margin of Error" columns
 Step 4: Deleted all columns without heading "Total"
 
 Step 5: Deleted each time the phrase "Monmouth County, New Jersey" appeared
+
+Step 6: Got rid of "16 and older" row
