@@ -15,3 +15,5 @@ Step 4: Deleted all columns without heading "Total"
 Step 5: Deleted each time the phrase "Monmouth County, New Jersey" appeared
 
 Step 6: Got rid of "16 and older" row
+
+Step 7: Got rid of rows that count total
