@@ -11,3 +11,5 @@ Step 2: Deleted "County not defined" column
 Step 3: Deleted all "Margin of Error" columns
 
 Step 4: Deleted all columns without heading "Total"
+
+Step 5: Deleted any time the phrase "Monmouth County, New Jersey" appeared
