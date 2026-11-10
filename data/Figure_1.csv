@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ,Bus_fin_ op_ oc,Comp_mat_occ,Life_phys_soc_sci_occ,Art_des_ent_ sport_media_occ,Prot_serv_occ,Sales_rel_occ,Office_admin_supp_occ,TOTAL
+Aberdeen township,904,541,173,302,326,"1,152","1,085",4483
+=======
+,Bus_fin_ op_ occ,Comp_mat_occ,Life_phys_soc_sci_occ,Art_des_ent_ sport_media_occ,Prot_serv_occ,Sales_rel_occ,Office_admin_supp_occ,TOTAL
 Aberdeen township,904,541,173,302,326,"1,152","1,085",4483.00
+>>>>>>> 7806603c49549ce88c076ee61f4eb8105726c3be
 Allenhurst borough,23,10,8,3,3,27,8,82
 Allentown borough,71,40,0,19,36,64,112,342
 Asbury Park city,447,294,86,191,42,"1,002",530,2592
