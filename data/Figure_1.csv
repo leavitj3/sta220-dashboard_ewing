@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-,Bus_fin_ op_ oc,Comp_mat_occ,Life_phys_soc_sci_occ,Art_des_ent_ sport_media_occ,Prot_serv_occ,Sales_rel_occ,Office_admin_supp_occ,TOTAL
-Aberdeen township,904,541,173,302,326,"1,152","1,085",4483
-=======
-,Bus_fin_ op_ occ,Comp_mat_occ,Life_phys_soc_sci_occ,Art_des_ent_ sport_media_occ,Prot_serv_occ,Sales_rel_occ,Office_admin_supp_occ,TOTAL
-Aberdeen township,904,541,173,302,326,"1,152","1,085",4483.00
->>>>>>> 7806603c49549ce88c076ee61f4eb8105726c3be
+,Bus_fin_ op_ oc,Comp_mat_occ,Life_phys_soc_sci_occ,Art_des_ent_sport_media_occ,Prot_serv_occ,Sales_rel_occ,Office_admin_supp_occ,TOTAL
+Aberdeen township,904,541,173,302,326,1152,1085,4483
 Allenhurst borough,23,10,8,3,3,27,8,82
 Allentown borough,71,40,0,19,36,64,112,342
-Asbury Park city,447,294,86,191,42,"1,002",530,2592
+Asbury Park city,447,294,86,191,42,1002,530,2592
 Atlantic Highlands borough,140,79,29,73,34,287,313,955
 Avon-by-the-Sea borough,61,27,4,52,35,106,126,411
 Belmar borough,265,59,35,82,144,269,349,1203
@@ -20,28 +15,28 @@ Englishtown borough,74,57,0,4,20,112,150,417
 Fair Haven borough,334,89,36,33,60,487,313,1352
 Farmingdale borough,63,9,9,40,53,39,71,284
 Freehold borough,291,92,120,126,117,754,718,2218
-Freehold township,"1,476",914,261,370,796,"2,032","1,448","7,297"
-Hazlet township,646,227,113,170,759,"1,029","1,450",4394
+Freehold township,1476,914,261,370,796,2032,1448,7297
+Hazlet township,646,227,113,170,759,1029,1450,4394
 Highlands borough,105,132,66,161,38,142,234,878
-Holmdel township,"1,311",377,64,217,83,927,583,"3,562"
-Howell township,"1,934","1,119",338,500,677,"2,679","2,980","10,227"
+Holmdel township,1311,377,64,217,83,927,583,3562
+Howell township,1934,1119,338,500,677,2679,2980,10227
 Interlaken borough,32,20,4,22,12,50,14,154
 Keansburg borough,181,60,50,0,46,826,820,1983
 Keyport borough,287,148,51,64,34,230,439,1253
 Lake Como borough,46,6,12,24,7,121,93,309
 Little Silver borough,435,30,52,90,0,556,159,1322
 Loch Arbour village,6,8,1,4,0,5,4,28
-Long Branch city,936,373,73,395,468,"1,944","1,371",5560
-Manalapan township,"2,049","1,155",104,584,346,"2,136","2,142","8,516"
+Long Branch city,936,373,73,395,468,1944,1371,5560
+Manalapan township,2049,1155,104,584,346,2136,2142,8516
 Manasquan borough,211,51,55,151,53,346,142,1009
-Marlboro township,"2,334","1,676",200,561,293,"2,106","1,968","9,138"
+Marlboro township,2334,1676,200,561,293,2106,1968,9138
 Matawan borough,363,196,80,116,55,439,607,1856
-Middletown township,"3,731","1,365",218,732,"1,100","3,869","3,307","14,322"
+Middletown township,3731,1365,218,732,1100,3869,3307,14322
 Millstone township,811,299,49,106,134,944,270,2613
 Monmouth Beach borough,214,57,30,47,14,187,118,667
-Neptune township,828,497,62,205,426,"1,100","1,367",4485
+Neptune township,828,497,62,205,426,1100,1367,4485
 Neptune City borough,112,17,24,34,120,350,491,1148
-Ocean township,"1,010",518,161,349,269,"1,783","1,351","5,441"
+Ocean township,1010,518,161,349,269,1783,1351,5441
 Oceanport borough,95,153,17,60,137,361,300,1123
 Red Bank borough,647,300,60,396,36,633,553,2625
 Roosevelt borough,20,20,10,5,4,31,44,134
@@ -52,8 +47,8 @@ Shrewsbury borough,209,145,36,46,99,186,101,822
 Shrewsbury township,21,30,4,15,12,205,68,355
 Spring Lake borough,152,17,40,17,13,144,6,389
 Spring Lake Heights borough,136,17,18,30,107,414,236,958
-Tinton Falls borough,952,422,41,158,130,"1,630",909,4242
+Tinton Falls borough,952,422,41,158,130,1630,909,4242
 Union Beach borough,202,90,28,66,61,537,318,1302
 Upper Freehold township,399,238,186,121,124,275,196,1539
-Wall township,"1,347",420,174,441,476,"1,612",908,"5,378"
+Wall township,1347,420,174,441,476,1612,908,5378
 West Long Branch borough,442,142,37,245,97,499,359,1821
