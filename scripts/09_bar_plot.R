@@ -1,4 +1,10 @@
 library(ggplot2)
-ggplot(Figure_1, aes(x = TOTAL, y = X)) +
+ggplot(acs, aes(x = TOTAL, y = ...1)) +
   geom_col() +
-  labs(y = "Subdivision")
+  labs(
+    title = "Middletown township has the highest total occupations",
+    subtitle = "Each bar shows one subdivision in Monmouth County",
+    x = "Total",
+    y = "Subdivision",
+    caption = "Source: American Community Survey, 2023"
+  )
