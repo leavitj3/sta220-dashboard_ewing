@@ -23,3 +23,12 @@ Step 8: Transposed row title and column title; reversed them
 Step 9: Changed titles in top row to lower snake case
 
 Step 10: Saved table to data folder and named it "Figure_1"
+
+All services, which utilize or access the API, should display the following notice
+prominently within the application: "This product uses the Census Bureau Data API
+but is not endorsed or certified by the Census Bureau." You may use the Census Bureau
+name in order to identify the source of API content subject to these rules. You may not
+use the Census Bureau name, or the like to imply endorsement of any product, service, or
+entity, not-for-profit, commercial or otherwise.
+
+
