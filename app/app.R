@@ -10,7 +10,7 @@ library(tidyverse)
 
 # Save your cleaned data in app/data/, then delete the # below.
 # Yes, you will have cleaned data in two places in your repo.
-my_data <- read_csv("data/data.csv")
+acs <- read_csv("data/data.csv")
 
 
 # The UI (what the reader sees) ------------------------------------------------------------------
