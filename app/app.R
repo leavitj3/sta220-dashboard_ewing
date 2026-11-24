@@ -23,13 +23,13 @@ ui <- fluidPage(
 
   selectInput(inputId = "pick", label = "Pick one:", choices = c("choice 1", "choice 2")),
 
-  h3("Figure 1. Total quantitative research jobs available in Monmouth County"),
+  h3("Figure 1. Total quantitative research occupations available in Monmouth County"),
   plotOutput(outputId = "fig_1"),
   p("This figure shows the total quantitative research occupations in each subdivision of Monmouth County. Each bar represents one subdivision."),
 
-  h3("Figure 2. title"),
+  h3("Figure 2. Computer and mathematical occupations available in Monmouth County"),
   plotOutput(outputId = "fig_2"),
-  p("a sentence or two saying what the figure shows."),
+  p("This figure shows the computer and mathematical occupations in Monmouth County. Each bar represents one subdivision."),
 
   h3("This dashboard cannot tell you about other math-related jobs not related to quantitative research in Monmouth County."),
   p("My data is limited because it is from three years ago and may be a bit outdated.")
@@ -57,6 +57,16 @@ server <- function(input, output) {
 
   output$fig_2 <- renderPlot({
 
+    library(ggplot2)
+    ggplot(acs, aes(x = Comp_mat_occ, y = ...1)) +
+      geom_col() +
+      labs(
+        title = "Marlboro township has the most occupations",
+        subtitle = "Each bar shows one subdivision in Monmouth County",
+        x = "Computer and Mathematical Occupations",
+        y = "Subdivision",
+        caption = "Source: American Community Survey, 2023"
+      )
 
   })
 
